@@ -1,5 +1,7 @@
 # NAS Setup — Servidor de fotos familiar con Immich
 
+[![GitHub](https://img.shields.io/badge/GitHub-jomzero%2Fpersonal__nas-blue?logo=github)](https://github.com/jomzero/personal_nas)
+
 Convierte cualquier equipo con **Ubuntu 20.04+** en un NAS familiar con backup automático desde dispositivos Android, acceso remoto seguro vía Tailscale y monitoreo de salud del sistema.
 
 ## ¿Qué instala?
@@ -25,8 +27,8 @@ Convierte cualquier equipo con **Ubuntu 20.04+** en un NAS familiar con backup a
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/nas-setup.git
-cd nas-setup
+git clone https://github.com/jomzero/personal_nas.git
+cd personal_nas
 
 # 2. Dale permisos de ejecución al script
 chmod +x setup.sh
